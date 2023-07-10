@@ -1,0 +1,8 @@
+.sci {
+    filter:grayscale(1);
+    transition: filter 5s ease;
+}
+
+.sci:hover {
+    filter: grayscale(0);
+}
